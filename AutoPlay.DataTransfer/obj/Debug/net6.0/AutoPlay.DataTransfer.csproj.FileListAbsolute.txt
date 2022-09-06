@@ -1,0 +1,12 @@
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\bin\Debug\net6.0\AutoPlay.DataTransfer.deps.json
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\bin\Debug\net6.0\AutoPlay.DataTransfer.dll
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\bin\Debug\net6.0\ref\AutoPlay.DataTransfer.dll
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\bin\Debug\net6.0\AutoPlay.DataTransfer.pdb
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.AssemblyInfo.cs
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.dll
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\ref\AutoPlay.DataTransfer.dll
+C:\Users\aline.kato\Desktop\Autoplay\AutoPlay.DataTransfer\obj\Debug\net6.0\AutoPlay.DataTransfer.pdb

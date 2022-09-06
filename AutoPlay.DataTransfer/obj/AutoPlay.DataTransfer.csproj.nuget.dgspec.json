@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aline.kato\\Desktop\\Autoplay\\AutoPlay.DataTransfer\\AutoPlay.DataTransfer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aline.kato\\Desktop\\Autoplay\\AutoPlay.DataTransfer\\AutoPlay.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aline.kato\\Desktop\\Autoplay\\AutoPlay.DataTransfer\\AutoPlay.DataTransfer.csproj",
+        "projectName": "AutoPlay.DataTransfer",
+        "projectPath": "C:\\Users\\aline.kato\\Desktop\\Autoplay\\AutoPlay.DataTransfer\\AutoPlay.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\aline.kato\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aline.kato\\Desktop\\Autoplay\\AutoPlay.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aline.kato\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
